@@ -1,0 +1,25 @@
+{
+  "name": "mobileupload",
+  "version": "1.0.0",
+  "description": "Simple upload app for demonstrating accessing services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyledef/mobileupload.git"
+  },
+  "author": "Kyle E De Freitas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kyledef/mobileupload/issues"
+  },
+  "homepage": "https://github.com/kyledef/mobileupload#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "formidable": "^1.0.17",
+    "fs-extra": "^0.26.5",
+    "quickthumb": "0.0.12"
+  }
+}
