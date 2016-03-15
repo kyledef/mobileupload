@@ -17,9 +17,12 @@
   },
   "homepage": "https://github.com/kyledef/mobileupload#readme",
   "dependencies": {
+    "body-parser": "^1.15.0",
     "express": "^4.13.4",
     "formidable": "^1.0.17",
     "fs-extra": "^0.26.5",
+    "jade": "^1.11.0",
+    "mongodb": "^2.1.8",
     "quickthumb": "0.0.12"
   }
 }
